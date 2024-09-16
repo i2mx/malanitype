@@ -18,6 +18,12 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Set up Git user
+      run: |
+          git config --global user.name "Maulani"
+          git config --global user.email "i2mx@protonmail.me"
+
+
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
