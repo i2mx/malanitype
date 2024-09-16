@@ -9,7 +9,7 @@
     "build:live": "npx gulp build-production",
     "build:webpack": "webpack --config webpack.config.js",
     "start:dev": "npm run build && concurrently --kill-others \"npx gulp watch\" \"http-server -a 127.0.0.1 -p 5000 public\"",
-    "deploy:live": "npm run build:live && gh-pages -t -d dist",
+    "deploy:live": "npm run build:live && gh-pages -t -d public",
     "tsc": "tsc"
   },
   "engines": {

@@ -1,0 +1,17 @@
+{
+  "language": "the_inheritance_of_loss",
+  "groups": [
+    [0, 100],
+    [101, 300],
+    [301, 600],
+    [601, 9999]
+  ],
+  "quotes": [
+    {
+      "text": "My name is Biju and I'm a little rat",
+      "source": "Biju Chapter 24 on Mendacity",
+      "length": 36,
+      "id": 1
+    }
+  ]
+}
