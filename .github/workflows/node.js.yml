@@ -20,8 +20,8 @@ jobs:
 
     - name: Set up Git user
       run: |
-          git config --global user.name "Maulani"
-          git config --global user.email "i2mx@protonmail.me"
+          git config --global user.name "exhqx"
+          git config --global user.email "i2mx@protonmail.com"
 
 
     - name: Set up Node.js
