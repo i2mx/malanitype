@@ -21,8 +21,8 @@ jobs:
         
     - name: Set up Git user
       run: |
-        git config user.name "i2mx"
-        git config user.email "i2mx@protonmail.com"
+        git config --global user.name "i2mx"
+        git config --global user.email "i2mx@protonmail.com"
 
     - name: Yithub Authentication
       env:
