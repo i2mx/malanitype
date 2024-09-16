@@ -14,17 +14,20 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [18.x, 20.x, 22.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm run install:all
-    - run: npm run deploy:live
+        node-version: '16.13.2' # Specify the Node.js version, or leave it as needed.
+        
+    - name: Install specific npm version
+      run: npm install -g npm@8.1.2
+
+    - name: Install dependencies
+      run: npm run install:all
+
+    - name: Building project
+      run: npm run build:live
