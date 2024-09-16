@@ -31,3 +31,6 @@ jobs:
 
     - name: Building project
       run: npm run build:live
+
+    - name: Deploying project
+      run: npm run deploy:live
