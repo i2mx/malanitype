@@ -1,0 +1,281 @@
+{
+  "language": "cat_on_a_hot_tin_roof",
+  "groups": [
+    [0, 100],
+    [101, 300],
+    [301, 600],
+    [601, 9999]
+  ],
+  "quotes": [
+    {
+      "text": "Nobody says, ‘You’re dying.’ You have to fool them. They have to fool themselves",
+      "source": "Mendacity - Maggie pg 22",
+      "length": 80,
+      "id": 1
+    },
+    {
+      "text": "all the goddam lies and liars that I have had to put up with, and all the goddam hypocrisy that I lived with all these forty years",
+      "source": "Mendacity - Big Daddy pg 40",
+      "length": 130,
+      "id": 2
+    },
+    {
+      "text": "there’s nothing else to live with except mendacity",
+      "source": "Mendacity - Big Daddy pg 58",
+      "length": 50,
+      "id": 3
+    },
+    {
+      "text": "How about these birthday congratulations, these many, many happy returns of the day, when everybody but you knows there won’t be any!",
+      "source": "Mendacity - Brick pg 67",
+      "length": 133,
+      "id": 4
+    },
+    {
+      "text": "Lying, have they been lying? About the report from the - clinic? Did they, did they find something? - Cancer. Maybe?",
+      "source": "Mendacity - Big Daddy pg 68",
+      "length": 116,
+      "id": 5
+    },
+    {
+      "text": "Brick and I are going to - have a child!",
+      "source": "Mendacity - Maggie pg 87",
+      "length": 40,
+      "id": 6
+    },
+    {
+      "text": "Living with someone you love can be lonelier - than living entirely alone! - if the one that y’ love doesn’t love you",
+      "source": "Unrequited love - Maggie pg 8",
+      "length": 117,
+      "id": 7
+    },
+    {
+      "text": "I can’t see a man but you! Even with my eyes closed, I just see you!",
+      "source": "Unrequited love - Maggie pg 15",
+      "length": 68,
+      "id": 8
+    },
+    {
+      "text": "But how in hell on earth do you imagine - that you’re going to have a child by a man that can’t stand you?",
+      "source": "Unrequited love - Brick pg 30",
+      "length": 106,
+      "id": 9
+    },
+    {
+      "text": "And I did, I did so much, I did love you! - I even loved your hate and hardness, Big Daddy / Wouldn’t that be funny if that was true",
+      "source": "Unrequited love - Big Mama and Big Daddy pg 40",
+      "length": 132,
+      "id": 10
+    },
+    {
+      "text": "[She kisses Brick on the mouth which he immediately wipes with the back of his hand]",
+      "source": "Unrequited love - pg 41",
+      "length": 84,
+      "id": 11
+    },
+    {
+      "text": "I do love you, Brick, I do! / [smiling with charming sadness] Wouldn’t it be funny if that was true?",
+      "source": "Unrequited love - Maggie and Brick pg 91",
+      "length": 100,
+      "id": 12
+    },
+    {
+      "text": "it was only Skipper that harboured even any unconscious desire for anything not perfectly pure between you two",
+      "source": "Sexuality - Maggie pg 27",
+      "length": 110,
+      "id": 13
+    },
+    {
+      "text": "- But Gooper and Mae suggested that there was something not right exactly in your - /  not exactly normal in your friendship with -",
+      "source": "Sexuality - Big Daddy pg 61",
+      "length": 131,
+      "id": 14
+    },
+    {
+      "text": "you call me your son and a queer. Maybe that’s why you put Maggie and me in this room that was Jack Straw’s and Peter Ochello’s, in which that pair of old sisters slept in a double bed where both of ‘em died",
+      "source": "Sexuality - Brick pg 62",
+      "length": 207,
+      "id": 15
+    },
+    {
+      "text": "Why can’t exceptional friendship, real, real, deep, deep friendship! Between two men be respected as something clean and decent without being thought of as -",
+      "source": "Sexuality - Brick pg 64",
+      "length": 157,
+      "id": 16
+    },
+    {
+      "text": "He, poor Skipper, went to bed with Maggie to prove it wasn’t true and when it didn’t work out, he thought it was true! - Skipper broke in two like a rotten stick",
+      "source": "Sexuality - Brick pg 66",
+      "length": 161,
+      "id": 17
+    },
+    {
+      "text": "Ignorance - of mortality - is a comfort. A man don’t have that comfort, he’s the only living thing that conceives of death, that knows what it is.",
+      "source": "Disease and Death - Big Daddy pg 48",
+      "length": 146,
+      "id": 18
+    },
+    {
+      "text": "I thought I had it. The earth shook under my foot, the sky come down like the black lid of a kettle and I couldn’t breath! - Today!! - that lid was lifted",
+      "source": "Disease and Death - Big Daddy pg 54",
+      "length": 154,
+      "id": 19
+    },
+    {
+      "text": "Why should I turn over over twenty-eight thousand acres to not my kind…Why should I subsidise worthless behaviour…I didn’t make up my mind at all on that question and still to this day I ain’t made out no will!",
+      "source": "Disease and Death - Big Daddy pg 59",
+      "length": 210,
+      "id": 20
+    },
+    {
+      "text": "We musn’t scream at each other, the walls in this house have ears",
+      "source": "Isolation and communication - Maggie pg 11",
+      "length": 65,
+      "id": 21
+    },
+    {
+      "text": "I want some privacy here, while I’m having a confidential talk with my son Brick … I hate eaves droppers, I don’t like any kind of sneakin’ an’ spyin’.",
+      "source": "Isolation and communication - Big Daddy pg 42",
+      "length": 151,
+      "id": 22
+    },
+    {
+      "text": "Ever so often you say to me, Brick, I want to have a talk with you, but when we talk, it never materialises. Nothing is said … Communication is - awful hard between people",
+      "source": "Isolation and communication - Brick pg 48",
+      "length": 171,
+      "id": 23
+    },
+    {
+      "text": "Some single men stop drinking when they git married and others start! Brick never touched liquor before he -!",
+      "source": "Familial Conflict - Big Mama pg 20",
+      "length": 109,
+      "id": 24
+    },
+    {
+      "text": "[crying out] THAT’s NOT FAIR!",
+      "source": "Familial Conflict - Maggie pg 20",
+      "length": 29,
+      "id": 25
+    },
+    {
+      "text": "Mae an’ Gooper are plannin’ to freeze us out of Big Daddy’s estate because you drink and I’m childless",
+      "source": "Familial Conflict - Maggie pg 24",
+      "length": 102,
+      "id": 26
+    },
+    {
+      "text": "[Big Daddy is famous for his jokes at Big Mama’s expense…sometimes they’re pretty cruel and Big Mama has to pick up or fuss with something to cover the hurt that the loud laugh doesn’t quite cover]",
+      "source": "Familial Conflict - pg 32",
+      "length": 197,
+      "id": 27
+    },
+    {
+      "text": "They’re sittin’ in the middle of a big piece of land … and so they’re squaring off on it, determined to knock off a bigger piece of it than the other",
+      "source": "Familial Conflict - Brick pg 41",
+      "length": 149,
+      "id": 28
+    },
+    {
+      "text": "Git away from me, git away from me, Mae! I want Brick! Where’s Brick? Where is my only son?",
+      "source": "Familial Conflict - Big Mama pg 78",
+      "length": 91,
+      "id": 29
+    },
+    {
+      "text": "I’ve got a right to discuss my brother with other members of MY OWN family which don’t include you.",
+      "source": "Familial Conflict - Gooper pg 83",
+      "length": 99,
+      "id": 30
+    },
+    {
+      "text": "I’ve never seen such malice toward a brother.",
+      "source": "Familial Conflict - Maggie pg 83",
+      "length": 45,
+      "id": 31
+    },
+    {
+      "text": "I made my mistake when I told you the truth about that thing with skipper. Never should have confessed it, a fatal error, tellin’ you about that thing with Skipper",
+      "source": "Regret - Maggie pg 25",
+      "length": 163,
+      "id": 32
+    },
+    {
+      "text": "I made my mistake when I told you the truth about that thing with skipper. Never should have confessed it, a fatal error, tellin’ you about that thing with Skipper",
+      "source": "Regret - Maggie pg 25",
+      "length": 163,
+      "id": 33
+    },
+    {
+      "text": "Because I used to jump them, and people like to do what they used to do, even after they’ve stopped being able to do it",
+      "source": "Memory - Brick pg 29",
+      "length": 119,
+      "id": 34
+    },
+    {
+      "text": "I left out a long-distance call which I had from Skipper, in which he made a drunken confession to me and on which I hung up! - last time we spoke to each other in our lives",
+      "source": "Regret - Brick pg 67",
+      "length": 173,
+      "id": 35
+    },
+    {
+      "text": "Always had to suck up to people I couldn't stand because they had money and I was poor as Job's turkey.",
+      "source": "Wealth - Maggie pg 24",
+      "length": 103,
+      "id": 36
+    },
+    {
+      "text": "You can be young without money, but you can't be old without it.",
+      "source": "Wealth - Maggie pg 25",
+      "length": 64,
+      "id": 37
+    },
+    {
+      "text": "They’re sittin’ in the middle of a big piece of land … and so they’re squaring off on it, determined to knock off a bigger piece of it than the other",
+      "source": "Wealth - Brick pg 41",
+      "length": 149,
+      "id": 38
+    },
+    {
+      "text": "This is a deliberate campaign of vilification for the most disgusting and sordid reason on earth, and I know what it is! It’s avarice, avarice, greed, greed!",
+      "source": "Wealth - Maggie pg 83",
+      "length": 157,
+      "id": 39
+    },
+    {
+      "text": "[to herself, downstage, hissingly]: Poisons, poisons! Venomous thoughts and words! In hearts and minds!—That's poisons!",
+      "source": "Maggie",
+      "length": 119,
+      "id": 40
+    },
+    {
+      "text": "Time goes by so fast. Nothin' can outrun it. Death commences too early—almost before you're half-acquainted with life—you meet with the other... Oh, you know we just got to love each other an' stay together, all of us, just as close as we can, especially now that such a black thing has come and moved into this place without invitation.",
+      "source": "Big Mama",
+      "length": 337,
+      "id": 41
+    },
+    {
+      "text": "You! - dug the grave of your friend and kicked him in it! - before you’d face the truth with him!",
+      "source": "Mendacity - Big Daddy pg 67",
+      "length": 97,
+      "id": 42
+    },
+    {
+      "text": "Mendacity is a system that we live in. Liquor is the way out an’ death’s the other",
+      "source": "Mendacity - Brick pg 68",
+      "length": 82,
+      "id": 43
+    },
+    {
+      "text": "tonight we're going to make the lie true, and when that's done, I'll bring the liquor back here and we'll get drunk together",
+      "source": "Mendacity - Maggie pg 91",
+      "length": 124,
+      "id": 44
+    },
+    {
+      "text": "Laws of silence don’t work",
+      "source": "Isolation and communication - Maggie pg 10",
+      "length": 26,
+      "id": 45
+    }
+  ]
+}

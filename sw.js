@@ -1,4 +1,4 @@
-const staticCacheName = "sw-cache-2024-9-17-5-27-24"; // this is given a unique name on build
+const staticCacheName = "sw-cache-2024-9-18-1-50-6"; // this is given a unique name on build
 
 self.addEventListener("activate", (event) => {
   caches.keys().then((names) => {
